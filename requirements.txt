@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+librosa
+numpy
+scikit-learn
+python-dotenv
+soundfile
+joblib
+
+
